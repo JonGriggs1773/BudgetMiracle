@@ -1,0 +1,54 @@
+
+
+.errors {
+	color: red;	
+}
+
+
+body {
+	display: flex;
+	justify-content: center;
+	margin-right: 300px;
+}
+
+.container-custom {
+	height: 600px;
+	width: 800px;
+}
+
+.custom-col {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	bottom: 500px;
+	left: 650px;
+	width: 700px;
+}
+
+.container-lg {
+	height: 800px;
+}
+
+#cust-col {
+	height: 700px;
+}
+
+#img-custom {
+	height: 200px;
+	width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
